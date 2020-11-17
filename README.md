@@ -1,6 +1,6 @@
 ### **Bienvenido** a mi perfil 😀
-#### Soy una simple persona que le gusta programar 👨‍💻
-#### Actualmente estoy programando con Java, en un futuro probablemente cambie 👀
+> #### Soy una simple persona que le gusta programar 👨‍💻
+> #### Actualmente estoy programando con Java, en un futuro probablemente cambie 👀
 
 <!--
 **PRONOOB895/PRONOOB895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
